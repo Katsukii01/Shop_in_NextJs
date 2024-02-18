@@ -1,9 +1,9 @@
-Some pictures of project 
+Some pictures of project, database used in project is MongoDB
 
 Main page
 ![image](https://github.com/Katsukii01/Shop_in_NextJs/assets/97676458/f902e353-deb4-48ce-8272-c9fdb6511d88)
 
-Login page
+Login page using Clerk
 ![image](https://github.com/Katsukii01/Shop_in_NextJs/assets/97676458/b945d94f-091a-44f2-ade2-8f37100bfd5c)
 
 Admin panel
